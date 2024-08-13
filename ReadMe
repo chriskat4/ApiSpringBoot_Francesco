@@ -1,0 +1,4 @@
+https://www.youtube.com/watch?v=Nefd6qdpdSI
+
+Run with -> mvn clean package -DskipTests
+            docker compose build 
